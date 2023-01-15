@@ -6,8 +6,7 @@
 - [Courses](#courses)
 - [Education](#education)
 - [Examples of my work](#examples-of-my-work)
-  * [Test cases ](#test-cases)
-
+ 
 
 ## About me
 Here is someone who loves analyzing everything and love to communicate with people. The reason why my all background leads me to love those. 
@@ -20,7 +19,7 @@ I wish to keep exploiting my skills in QA engineering. Currently, I am intensive
 I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. 
 
 ## Projects
-Check it out! [my Google Drive](https://drive.google.com/file/d/11FJNgtF8fAgEQIFJ0aA9S9O8_6_7Jgp-/view?usp=sharing).
+Check it out! [my Google Drive](https://drive.google.com/drive/folders/1jCUZmEQ0KMKSqs5oifWR3PR_TWCaxnd1?usp=sharing).
 
 ## Skills
 
@@ -60,7 +59,7 @@ __SQL__
 __Google Analytics Professional Certificate__  
 *online courses by [Google](https://www.coursera.org)*  
 An intensive course in Data Analytics with Spreadsheet, SQL, Tablau and R.  
-*fifth course of total 8 courses in progress*
+*the fifth course of total 8 courses in progress*
 
 ## Education
 
@@ -77,9 +76,6 @@ __Hongik University__
   * Analyze data between UE and Reference  
 
 - Mobile Apllication Testing.
-  * Test case (in Russian) for authorisation. Check [the screenshot from TestRail here](https://drive.google.com/file/d/1X9q5h3NKLI7NZpoU-gaHwSrYq_KQtDsl/view?usp=sharing).
-  * Test case (in Russian) for adding an item to the cart. See [the screenshot from TestRail here](https://drive.google.com/file/d/1L74DBG62BRnl45WuVYsuR3RoYU4KZHrI/view?usp=sharing).
-  * Test suits and a test run for the cart. See [the screenshots from TestRail here](https://drive.google.com/file/d/1imQyEHdDE9FCWtnnPZurh0J9QMTWrS3l/view?usp=sharing).
 
 - Throughput test 
   * Perform tests with QXDM
