@@ -1,4 +1,4 @@
-# Portfolio
+# Hey I am Julian Here's my Portfolio
 - [About me](#about-me)
 - [Projects](#projects)
 - [Skills](#skills)
