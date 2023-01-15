@@ -24,7 +24,7 @@ Check it out! [my Google Drive](https://drive.google.com/drive/folders/1jCUZmEQ0
 
 ## Skills
 
-You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
+You can find examples of the described skills in the [my past work](#my-past-work) section.
 
 __Manual testing__
   * can perform manual functional testing of UE with LTE & 5G network
