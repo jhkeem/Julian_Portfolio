@@ -1,4 +1,5 @@
 # Hey I am Julian Here's my Portfolio
+
 - [About me](#about-me)
 - [Projects](#projects)
 - [Skills](#skills)
@@ -9,10 +10,10 @@
  
 
 ## About me
-Here is someone who loves analyzing everything and loves to communicate with people. The reason why my all background leads me to love those. 
+Here is someone who loves analyzing everything and loves to communicate with people since my background leads me to love those. 
 
-I got my Bachelor's Degree from Hongik University in South Korea. My research field was dealing with data for car navigation during school.
-And I have worked as a Mobile QA engineer to test UE on LTE and 5G network environment. From my past job, I got two skills which are to find critical bugs and to analyze data much better.
+I got my Bachelor's Degree from Hongik University in South Korea. My research field was dealing with data for mobility during school.
+And I have worked as a Mobile QA engineer testing UE on LTE and 5G network environment. From my past job, I got two skills which are to find critical bugs and to analyze data much better.
 
 I wish to keep exploiting my skills in QA engineering. Currently, I am intensively taking courses of Google Data Analytics Professional Certificate to perform my future role well as a QA engineer. 
 
