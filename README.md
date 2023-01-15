@@ -6,7 +6,7 @@
 - [Tools](#tools)
 - [Courses](#courses)
 - [Education](#education)
-- [Examples of my work](#examples-of-my-work)
+- [my past work](#my-past-work)
  
 
 ## About me
@@ -50,7 +50,7 @@ __MATLAB__
   * know how to create basic functions and use inserted tools
 
 __python__
-  * able to set up and operate virtual machines
+  * experience with DeepLearning project
 
 __SQL__
   * can write basic requests using subqueries
@@ -68,20 +68,29 @@ __Hongik University__
 *graduated in Feb 2021*   
 *majored in mechanical engineering and system design*
 
-## Examples of my work
+## my past work
 
-### test cases
+### Samsung Electronics America from ITS company
+*Mobile QA engineer, Nov 2021 - May 2022*
 
-- KPI test (Key Performance Indicator)
-  * Perform tests with QXDM
-  * Analyze data between UE and Reference  
+- Improve UE performance by evaluating and trending key KPIs
+  * Perform tests with QXDM(The Qualcomm extensible Diagnostic Monitor)
+- Analysis and Evaluation of new product & SW releases  
 
-- Mobile Apllication Testing.
+- Mobile Apllication Testing
 
-- Throughput test 
-  * Perform tests with QXDM
-  * It is about data traffic
+- Throughput testing
+  * Perform tests with QXDM(The Qualcomm extensible Diagnostic Monitor)
+  * It is about dealing with data traffic
 
-- Handover test(intra & inter)
+- Handover test(intra & inter network)
 
   * to find network bugs between network towers
+
+### Autonav Lab in Hongik University
+*Research Intern, July 2020 - Feb 2021*
+
+- Collecting and Postprocessing GNSS (Global Navigation Satellite System) data (e.g. MATLAB)
+- Estimation of timing error for WAVE communication (wireless access in vehicular environments) using Deep Learning
+  * Collecting 802.11p protocol signal data (e.g. MATLAB)
+  * Predicting timing error of 802.11p protocol signal data using Deep Neural Networks (e.g. Python)
