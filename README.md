@@ -9,7 +9,7 @@
  
 
 ## About me
-Here is someone who loves analyzing everything and love to communicate with people. The reason why my all background leads me to love those. 
+Here is someone who loves analyzing everything and loves to communicate with people. The reason why my all background leads me to love those. 
 
 I got my Bachelor's Degree from Hongik University in South Korea. My research field was dealing with data for car navigation during school.
 And I have worked as a Mobile QA engineer to test UE on LTE and 5G network environment. From my past job, I got two skills which are to find critical bugs and to analyze data much better.
@@ -58,7 +58,7 @@ __SQL__
 
 __Google Analytics Professional Certificate__  
 *online courses by [Google](https://www.coursera.org)*  
-An intensive course in Data Analytics with Spreadsheet, SQL, Tablau and R.  
+An intensive course in Data Analytics with Spreadsheet, SQL, Tableau and R.  
 *the fifth course of total 8 courses in progress*
 
 ## Education
@@ -69,7 +69,7 @@ __Hongik University__
 
 ## Examples of my work
 
-### Device Testing cases
+### test cases
 
 - KPI test (Key Performance Indicator)
   * Perform tests with QXDM
