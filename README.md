@@ -1,4 +1,4 @@
-# Hey I am Julian Here's my Portfolio
+# Hey! I am Julian. Here's my Portfolio
 
 - [About me](#about-me)
 - [Projects](#projects)
@@ -60,7 +60,7 @@ __SQL__
 __Google Analytics Professional Certificate__  
 *online courses by [Google](https://www.coursera.org)*  
 An intensive course in Data Analytics with Spreadsheet, SQL, Tableau and R.  
-*the fifth course of total 8 courses in progress*
+*the sixth course of total 8 courses in progress*
 
 ## Education
 
