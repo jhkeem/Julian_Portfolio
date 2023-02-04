@@ -77,7 +77,7 @@ __Hongik University__
   * Perform tests with QXDM(The Qualcomm extensible Diagnostic Monitor)
 - Analysis and Evaluation of new product & SW releases  
 
-- Mobile Apllication Testing
+- Mobile Application Testing
 
 - Throughput testing
   * Perform tests with QXDM(The Qualcomm extensible Diagnostic Monitor)
