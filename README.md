@@ -47,7 +47,7 @@ __QXDM__
   * able to setup and analyze data
 
 __MATLAB__
-  * know how to create basic functions and use inserted tools
+  * have experience with some projects
 
 __python__
   * experience with DeepLearning project
@@ -60,7 +60,7 @@ __SQL__
 __Google Analytics Professional Certificate__  
 *online courses by [Google](https://www.coursera.org)*  
 An intensive course in Data Analytics with Spreadsheet, SQL, Tableau and R.  
-*the sixth course of total 8 courses in progress*
+*the last course of total 8 courses in progress*
 
 ## Education
 
